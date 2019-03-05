@@ -38,4 +38,4 @@ $(document).ready(function(){
 });
 setInterval(function(){
  load_new_stuff();
-},5000);
+},100000);
